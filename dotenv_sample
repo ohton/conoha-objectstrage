@@ -1,0 +1,8 @@
+## pipenv virtualenv parent directory path
+#WORKON_HOME=/home/.pipenv/virtualenv
+
+## swift command auth params
+export OS_USERNAME=''
+export OS_PASSWORD=''
+export OS_TENANT_NAME=''
+export OS_AUTH_URL=''

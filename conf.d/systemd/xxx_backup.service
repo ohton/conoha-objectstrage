@@ -1,0 +1,8 @@
+[Unit]
+Description=Backup DB dump to object strage
+
+[Service]
+Type=oneshot
+ExecStart=___pythonpath___ /home/___username___/conoha-objectstrage/backup.py
+User=___username___
+Group=___groupname___

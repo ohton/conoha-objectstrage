@@ -1,0 +1,15 @@
+{
+    "USERID": "",
+    "APIKEY": "",
+    "TENANTNAME": "",
+    "AUTHURL": "",
+    "APP_DLPATH": "./dlfiles",
+    "APP_BACKUP_DEST_CONTAINER_NAME": "",
+    "APP_BACKUP_FILE_BASE_NAME": "db_name",
+    "APP_BACKUP_NUM_OF_BACKUP": "100",
+    "DB_USER": "",
+    "DB_PASSWD": "",
+    "DB_HOST": "127.0.0.1",
+    "DB_PORT": "3306",
+    "DB_NAME": ""
+}
